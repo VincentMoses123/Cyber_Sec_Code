@@ -25,6 +25,8 @@ def validate_password(password):
     
     return True
 
+
+print("Welcome to the password checker!")
 password=input(str("Enter your password: "))
 is_valid=validate_password(password)
 
