@@ -1,3 +1,13 @@
+#========================================================================
+
+#Someday I will be good at code, but today is not the day!
+
+#I need to put more effort in!
+
+#It is just so so hard!
+
+
+#========================================================================
 import random
 import string
 import re
